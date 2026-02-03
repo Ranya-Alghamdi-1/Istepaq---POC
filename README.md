@@ -61,4 +61,4 @@ Istepaq/
 - Maha Al sehly [[LinkedIn](https://www.linkedin.com/in/maha-al-sehly-816355178?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)]
 
 
-[!IMPORTANT] Note: This project is a technical Proof of Concept developed for the Judicial Intelligence Hackathon. It demonstrates the feasibility of monitoring and detecting violations during digital court proceedings and is intended for research and demonstration purposes only.
+IMPORTANT Note: This project is a technical Proof of Concept developed for the Judicial Intelligence Hackathon. It demonstrates the feasibility of monitoring and detecting violations during digital court proceedings and is intended for research and demonstration purposes only.
