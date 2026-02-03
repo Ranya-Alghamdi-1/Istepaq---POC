@@ -51,15 +51,6 @@ Istepaq/
 ```
 
 ---
-📊 Example JSON Output
-JSON
-{
-  "project": "Istepaq Monitor POC",
-  "subject": "Participant_01",
-  "threshold_no_look_seconds": 2.0,
-  "violation_count": 3,
-  "violation_total_seconds": 7.4
-}
 
 👥 Team – Istepaq
 
